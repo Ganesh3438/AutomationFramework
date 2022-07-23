@@ -1,0 +1,15 @@
+.settings/
+bin/
+tmp/
+.classpath
+.project
+*.tmp
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+pom.xml
+sreenshots/
+target/
+test-output/
